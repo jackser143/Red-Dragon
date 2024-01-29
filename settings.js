@@ -94,16 +94,16 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thum = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur error pic
-global.thumb = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://telegra.ph/file/f89a97a65465401faf323.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://telegra.ph/file/6bcca8ad812e429d24dde.jpg") //ur logo pic
+global.err4r = fs.readFileSync("https://telegra.ph/file/08087652550991390c54f.jpg") //ur error pic
+global.thumb = fs.readFileSync("https://telegra.ph/file/62227648c11c9e2555483.jpg") //ur thumb pic
 
-global.thumb = fs.readFileSync('./Android/AllData/theme/repl.jpg')
-global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.thumb = fs.readFileSync('https://i.imgur.com/bHcmcvc.jpeg')
+global.flaming = 'https://www6.flamingtext.com/Tools/download/coollogo_com.gif?url=https://ov12-engine.flamingtext.com/netfu/tmp28008/coollogo_com-17432451.gif&_loc=image'
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.flarun = 'https://www6.flamingtext.com/Tools/download/coollogo_com.gif?url=https://ov12-engine.flamingtext.com/netfu/tmp28008/coollogo_com-17432451.gif&_loc=download'
+global.flasmurf = 'https://www6.flamingthttps://www6.flamingtext.com/Tools/download/coollogo_com.gif?url=https://ov12-engine.flamingtext.com/netfu/tmp28008/coollogo_com-17432451.gif&_loc=image'
 
 global.ntilinkytvid = []
 global.ntilinkytch = []
